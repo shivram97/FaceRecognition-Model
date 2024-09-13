@@ -1,5 +1,0 @@
-- [x] MTCNN to detect faces
-- [x] Generate triplet data function
-- [x] Train function
-- [x] Create an embedding vector for each face
-- [x] Inference function
